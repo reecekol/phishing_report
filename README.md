@@ -1,13 +1,9 @@
-Copy the entire code block below and save it as `README.md` in your GitHub repository.
 
-markdown
-````
+
 
 # Phishing Incident Investigation & Response
 
-![Project Type](https://img.shields.io/badge/Project-Personal%20Cybersecurity%20Lab-blue)
-![SIEM](https://img.shields.io/badge/SIEM-Splunk-black)
-![Focus](https://img.shields.io/badge/Focus-Incident%20Response-red)
+
 
 ## Overview
 
@@ -305,6 +301,4 @@ All identities, indicators, domains, addresses, and investigation results should
 **Kole Reece**
 
 Personal cybersecurity project focused on phishing investigation, SIEM analysis, and incident response.
-````
 
-Before publishing: Verify the SPL field names against your dataset, and make sure the README distinguishes actions you actually performed from recommended actions. If the IP addresses, email addresses, or domain came from a training lab, identify them as lab data.
