@@ -3,10 +3,10 @@
 
 # Phishing Incident Investigation & Response
 
-View Full Report  [Here](https://example.com)
+View Full Report  [Here](investigation.pdf)
 
 
-View Investigation Log  [Here](https://example.com)
+View Investigation Log  [Here](report.pdf)
 
 
 
